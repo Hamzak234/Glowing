@@ -1,0 +1,20 @@
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\bin\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.exe.config
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\bin\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\bin\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\obj\Debug\Girilen_Sayının__Asal_Olup_Olmadığını_Bulma_Projesi.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\obj\Debug\Girilen_Sayının__Asal_Olup_Olmadığını_Bulma_Projesi.Properties.Resources.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\bin\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.exe.config
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\bin\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\bin\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\obj\Debug\Girilen_Sayının__Asal_Olup_Olmadığını_Bulma_Projesi.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\obj\Debug\Girilen_Sayının__Asal_Olup_Olmadığını_Bulma_Projesi.Properties.Resources.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\Kura Çekimi Projesi\obj\Debug\Girilen Sayının  Asal Olup Olmadığını Bulma Projesi.pdb
